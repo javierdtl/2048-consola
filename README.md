@@ -1,6 +1,6 @@
 # 2048 en consola
 
-Versión del juego 2048 en Python que se juega desde la terminal. La hice en 2017 como práctica del grado de Ingeniería Matemática (UCM) y la he revisado en 2026 para que se pueda jugar de principio a fin.
+Versión del juego 2048 en Python que se juega desde la terminal. La hice originalmente como práctica del grado de Ingeniería Matemática (UCM) y la he revisado posteriormente para que se pueda jugar de principio a fin. 
 
 ```
      .     .     .     .
