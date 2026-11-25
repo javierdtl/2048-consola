@@ -2,7 +2,7 @@
 """
 2048 for the console.
 
-Original version: May 2017, university assignment (Practica 4).
+Original version: university assignment
 Revised: November 2026.
 
 @author: javierdtl
